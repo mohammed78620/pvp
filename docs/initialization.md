@@ -19,7 +19,7 @@
 ### Deactivate virtual environment
 ``` deactivate ```
 ### Go into project directory
-``` cd django-boilerplate ```
+``` cd pvp ```
 ### Initialize poetry in project
 ``` poetry init -n ```
 ### Activate poetry virtual environment
